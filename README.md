@@ -6,7 +6,7 @@ Note that the radians() function is used to convert the rotation values from deg
 
 # Computer-Integrated-Manufacturing Individual Assignment
 
-Tew Jia Jian _Assignment.pdf : The file describe the detail of mainocr.py code to extract the information of the invoice or receipt.
-invoice1.png : The first invoice for mainocr.py code
-invoice2.jpg : The second invoice for mainocr.py code
-main.py : Python code to extract the necessary information from image
+/nTew Jia Jian _Assignment.pdf : The file describe the detail of mainocr.py code to extract the information of the invoice or receipt.
+/ninvoice1.png : The first invoice for mainocr.py code
+\ninvoice2.jpg : The second invoice for mainocr.py code
+\nmain.py : Python code to extract the necessary information from image
